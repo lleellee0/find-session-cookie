@@ -1,0 +1,22 @@
+{
+  "name": "find-session-cookie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lleellee0/find-session-cookie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lleellee0/find-session-cookie/issues"
+  },
+  "homepage": "https://github.com/lleellee0/find-session-cookie#readme",
+  "dependencies": {
+    "cookie": "^0.3.1"
+  }
+}
